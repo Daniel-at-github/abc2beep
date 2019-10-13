@@ -1,4 +1,4 @@
-# abc2beep
+# abc2beep.py
 
 Converts [abc music notation](http://abcnotation.com/) text file to a commandline [beep](https://linux.die.net/man/1/beep) script (pcspkr music)
 
